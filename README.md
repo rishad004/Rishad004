@@ -21,8 +21,8 @@ I am a passionate Golang developer with a diverse skill set and a keen interest 
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?rishad004=rishad004&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rishad004&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rishad004=rishad004&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishad004&layout=compact&theme=radical)
 
 Thank you for visiting my profile! 😊
