@@ -16,8 +16,8 @@ I am a passionate Golang developer with a diverse skill set and a keen interest 
 ## Contact Me
 
 - 💬 Ask me about Golang, Docker, Kubernetes, microservices, and more!
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📫 How to reach me: [rishadmuthu004@gmail.com](mailto:rishadmuthu004@gmail.com)
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammed-rishad-a43a132aa/)
 
 ## GitHub Stats
 
