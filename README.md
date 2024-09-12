@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Muhammed Rishad P 👋
 
 I am a passionate Golang developer with a diverse skill set and a keen interest in building scalable and efficient applications. Welcome to my GitHub profile!
 
